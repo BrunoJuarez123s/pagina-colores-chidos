@@ -1,0 +1,573 @@
+
+
+body {
+
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.gradient {
+	width: 99vw;
+	height: 210vh;
+	background: linear-gradient(334deg, #6b97f7, #7525e2, #f7137e);
+	background-size: 180% 180%;
+	animation: gradient-animation 6s ease infinite;
+}
+
+@keyframes gradient-animation {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+
+
+
+
+h1 {
+    text-align: center;
+}
+
+table {
+  
+
+    margin: 20px auto;
+    border-radius: 20px;
+    
+   
+}
+
+th, td {
+    
+    text-align: center;
+    border-radius: 20px;
+}
+
+th {
+    background-color: #333;
+    color: white;
+    border-radius: 20px;
+}
+
+
+
+.container {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.6);;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.9);
+    border-radius: 20px;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+nav {
+    background-color: #444;
+    color: #fff;
+    text-align: center;
+    padding: 0.5em 0;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 1em;
+}
+
+table, table  {
+    display: inline-block;
+    margin: 50px;
+    padding: 0px;
+    vertical-align: top;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+   
+}
+
+
+
+
+
+
+
+
+
+
+/* tabla 1 */
+
+
+.caja-1 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: red; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+
+
+
+}
+
+
+.caja-2 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: green; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-3 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: blue; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-4 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: yellow; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-5 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: cyan; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-6 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: Magenta; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-7 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: Black; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-8 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: Gray; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-9 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: Orange; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-10 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: Pink; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+/* tabla 1 */
+
+/* tabla 2 */
+
+.caja-11 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: Purple; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-12 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: Turquoise; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-13 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: Lavender; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-14 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: Salmon; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-15 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: Gold; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-16 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: Silver; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-17 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: Olive; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-18 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: Aquamarine; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-19 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: Tomato; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-20 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: Indigo; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+/* tabla 2 */
+
+/* tabla 3 */
+
+.caja-21 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: PeachPuff; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-22 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: SeaGreen; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-23 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: DodgerBlue; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-24 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: SlateGray; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-25 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: DarkSlateGray; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-26 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: SaddleBrown; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-27 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: Sienna; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-28 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: Peru; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-29 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: FireBrick; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-30 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: DarkKhaki; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+/* tabla 3 */
+
+/* tabla 4 */
+
+.caja-31 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: Chocolate; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-32 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: Crimson; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-33 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: Teal; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-34 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: Indigo; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-35 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: PaleVioletRed; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-36 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: NavajoWhite; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-37 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: MediumAquamarine; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-38 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: MediumVioletRed; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-39 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: OrangeRed; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.caja-40 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: RoyalBlue; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+/* tabla 4 */
+
+

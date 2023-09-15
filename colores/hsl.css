@@ -1,0 +1,1024 @@
+
+body {
+    font-family: Arial, sans-serif;
+   
+  
+}
+
+.gradient {
+	width: 99vw;
+	height: 500vh;
+	background: linear-gradient(334deg, #6b97f7, #7525e2, #f7137e);
+	background-size: 180% 180%;
+	animation: gradient-animation 6s ease infinite;
+}
+
+@keyframes gradient-animation {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+  
+
+    margin: 20px auto;
+    border-radius: 20px;
+    
+   
+}
+
+th, td {
+    
+    text-align: center;
+    border-radius: 20px;
+}
+
+th {
+    background-color: #333;
+    color: white;
+    border-radius: 20px;
+}
+
+
+
+.container {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.6);;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.9);
+    border-radius: 20px;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+nav {
+    background-color: #444;
+    color: #fff;
+    text-align: center;
+    padding: 0.5em 0;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 1em;
+}
+
+table, table  {
+    display: inline-block;
+    margin: 30px;
+    padding: 0px;
+    vertical-align: top;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+   
+}
+
+
+
+.caja-1 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(133, 38%, 39%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+    border-radius: 20px;
+
+
+
+}
+
+
+.caja-2 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(249, 100%, 26%) ; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+
+.caja-3 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: HSL(0, 0%, 0%) ; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-4 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color:HSL(0, 100%, 50%) ; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-5 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: HSL(30, 100%, 50%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+
+.caja-6 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: HSL(60, 100%, 50%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-7 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: HSL(180, 100%, 40%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+
+.caja-8 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(210, 100%, 50%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-9 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(280,100%,30%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-10 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(342,100%,90%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-11 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(10, 100%, 25%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-12 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(30, 100%, 25%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-13 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(60, 100%, 25%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-14 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(90, 100%, 20%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-15 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(197, 100%, 24%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-16 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(212, 100%, 25%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-17 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(263, 100%, 25%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-18 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(300, 100%, 22%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-19 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(313, 100%, 31%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-20 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(0, 100%, 75%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+
+
+
+.caja-21 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: HSL(30, 100%, 75%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+
+.caja-22 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(60, 100%, 75%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+
+.caja-23 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color:HSL(90, 100%, 75%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+
+.caja-24 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color:  hsl(172, 100%, 75%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+
+.caja-25 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color:hsl(204, 100%, 74%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+
+.caja-26 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(258, 100%, 78%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+
+.caja-27 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color:hsl(313, 86%, 62%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+
+.caja-28 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(0, 0%, 25%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+
+.caja-29 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(0, 0%, 0%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+
+.caja-30 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(0, 0%, 100%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+.caja-31 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(31, 92%, 20%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+
+.caja-32 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(32, 87%, 12%) ; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+
+.caja-33 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(90,100%,50%) ; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-34 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color:hsl(240, 100%, 50%) ; /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-35 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color:  hsl(90, 10%, 50%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+
+.caja-36 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(90, 100%, 80%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-37 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(90, 100%, 90%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+
+.caja-38 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl( 179, 100%, 90%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-39 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl( 239, 100%, 90%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-40 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(342,100%,90%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-41 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(89, 100%, 80%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-42 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl( 89, 100%, 10%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-43 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(60, 100%, 25%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-44 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(90, 100%, 20%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-45 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl( 359, 100%, 70%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-46 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(359, 100%, 16%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-47 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(59, 100%, 80%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-48 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(313, 100%, 31%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-49 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(313, 100%, 45%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+.caja-50 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsla(0, 9%, 31%, 0.418); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+
+
+}
+
+
+
+
+.caja-51 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: HSL(45, 100%, 60%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+
+.caja-52 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(249, 100%, 26%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+
+.caja-53 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color:HSL(210, 100%, 50%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+
+.caja-54 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color:  hsl(278, 100%, 32%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+
+.caja-55 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color:hsl(270, 88%, 10%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+
+.caja-56 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(0, 40%, 40%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+
+.caja-57 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color:hsl(0, 0%, 50%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+
+.caja-58 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(0, 0%, 25%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+
+.caja-59 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(30, 30%, 40%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+
+.caja-60 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(30, 30%, 20%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+.caja-61 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(0, 30%, 10%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+.caja-62{
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(0, 30%, 20%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+.caja-63 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(60, 40%, 50%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+.caja-64 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(60, 50%, 50%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+.caja-65 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(60, 70%, 50%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+.caja-66 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(46, 99%, 30%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+.caja-67 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(30, 90%, 70%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+.caja-68 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl( 150, 90%, 60%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+.caja-69 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl(150, 90%, 80%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+.caja-70 {
+    width: 150px; /* Ancho de la caja */
+    height: 50px; /* Altura de la caja */
+    background-color: hsl( 150, 90%, 90%); /* Color de fondo de la caja */
+    border: 1px solid #ccc; /* Borde de la caja */
+
+    margin-left: auto;
+    margin-right: auto; 
+border-radius: 20px;
+
+}
+
